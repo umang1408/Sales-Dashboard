@@ -5,4 +5,5 @@ Developed a highly comprehensive sales dashboard for ABC Limited company for fin
 
 • In order to gain various insights, data was imported from excel to Power Bi
 
-• The power of Power BI allow the company officials to explore data by drilling down into specific location, year, product code, and other factors
+• The power of Power BI allow the company officials to explore data by drilling down into specific location, year, product code, and other factors. In this dashboard, I have also used decomposition tree and Q & A AI visuals present under the INSERT tab of Power Bi. 
+
